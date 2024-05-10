@@ -5,16 +5,10 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 ## Features
 
 - Light and Dark Mode: The app offers both light and dark modes for user preference.
+- Light Mode: In light mode, the calculator has a white background with black text. To switch to light mode, click the toggle button located at the top-right corner of the screen.
+- Dark Mode: In dark mode, the calculator has a dark background with light text. To switch to dark mode, click the toggle button located at the top-right corner of the screen.
 - Responsive Design: The calculator is designed to be responsive and works well on various screen sizes.
 
-
-## Light Mode
-
-In light mode, the calculator has a white background with black text. To switch to light mode, click the toggle button located at the top-right corner of the screen.
-
-## Dark Mode
-
-In dark mode, the calculator has a dark background with light text. To switch to dark mode, click the toggle button located at the top-right corner of the screen.
 
 ## Files
 

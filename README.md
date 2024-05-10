@@ -15,4 +15,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - `index.html`: HTML file containing the structure of the calculator app.
 - `style.css`: CSS file containing the styles for the calculator app.
 
+For project overview, please take a look at the Images folder.
+
 Feel free to contribute to the project by submitting bug fixes or enhancements via pull requests.
